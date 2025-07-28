@@ -1,0 +1,6 @@
+#cspell:disable
+requests
+ipykernel
+python-dotenv
+openai
+pydantic
